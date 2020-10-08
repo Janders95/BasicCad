@@ -56,13 +56,14 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Fork
 
 ### Description
-
+80 mm in diameter and 8 mm thick has 2 smoothed rectangle on top and cylinder on bottom
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/85796e0a411844f6058b06ae/w/8bf5e12e0f1249058d2dcf0d/e/4e9980ae6e309f1799d43231
 ### Image
-
+https://github.com/Janders95/BasicCad/blob/main/images/fork.jpg
 ### Reflection
 
+I learned that you can smooth objects with fillet
 ---
 
 
