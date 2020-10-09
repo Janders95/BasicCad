@@ -43,13 +43,13 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Mount
 
 ### Description
-
+120 mm X 120 mm rectangle centered on the origin. 4 symmetric holes 10 mm in diameter 20 mm from each side.
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/ffcfa0963dced09f95683413/w/169742dc6d2c36b6c2356f40/e/dcbb0fdfc79ae87272e2a882
 ### Image
-
+https://github.com/Janders95/BasicCad/blob/main/images/caster.png
 ### Reflection
-
+I learned you could paste holes with the mirror feature.
 ---
 
 
