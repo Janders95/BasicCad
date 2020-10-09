@@ -70,13 +70,13 @@ I learned that you can smooth objects with fillet
 ## Tire
 
 ### Description
-
+20 mm wide tire 
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/4f9632f9e2dab94637a3041f/w/cae4fb805300e8a5652ca08e/e/e05f99f9731d7e8e41bf3fce
 ### Image
-
+https://github.com/Janders95/BasicCad/blob/main/images/thetire.jpg
 ### Reflection
-
+I learned that a trapezoid can make a tire
 ---
 
 
