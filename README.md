@@ -83,13 +83,14 @@ I learned that a trapezoid can make a tire
 ## Wheel
 
 ### Description
+wheel with 5 cuts on the inner part and 2 mm fillet on circle
 
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/0a5cdb0a87ea99dc88b175d0/w/8c2cea5b909e869de89b2218/e/ebc4d741ae7c04fb2fb80d4e
 ### Image
-
+https://github.com/Janders95/BasicCad/blob/main/images/wheel.jpg
 ### Reflection
-
+I learned that you can see more inside the cirlce by using the shaded with hidden edges button
 ---
 
 
