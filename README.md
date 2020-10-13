@@ -108,11 +108,18 @@ I learned that you can see more inside the cirlce by using the shaded with hidde
 
 ### Description
 
+A 60mm long cylinder tube with hole in the middle. 2 10mm slight cuts at the top of it on each side. With another 10mm cylinder wrapped around the front with a 10mm cut in the side of it.
+
 ### Evidence
+
+https://cvilleschools.onshape.com/documents/4831d78a49d1b039028413d8/w/91fcb74d30b6e4845f5f6d26/e/869284d9a8a37339f71c2596
 
 ### Image
 
+<img src="https://github.com/Janders95/BasicCad/blob/main/images/axle.jpg" width="400">
 
 ### Reflection
+
+I learned with the use button I can draw on a surface that wouldnt higlight originally.
 
 ---
