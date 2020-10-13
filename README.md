@@ -47,7 +47,9 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ### Evidence
 https://cvilleschools.onshape.com/documents/ffcfa0963dced09f95683413/w/169742dc6d2c36b6c2356f40/e/dcbb0fdfc79ae87272e2a882
 ### Image
-https://github.com/Janders95/BasicCad/blob/main/images/caster.png
+
+<img src="https://github.com/Janders95/BasicCad/blob/main/images/caster.png" width="400">
+
 ### Reflection
 I learned you could paste holes with the mirror feature.
 ---
@@ -60,7 +62,9 @@ I learned you could paste holes with the mirror feature.
 ### Evidence
 https://cvilleschools.onshape.com/documents/85796e0a411844f6058b06ae/w/8bf5e12e0f1249058d2dcf0d/e/4e9980ae6e309f1799d43231
 ### Image
-https://github.com/Janders95/BasicCad/blob/main/images/fork.jpg
+
+<img src="https://github.com/Janders95/BasicCad/blob/main/images/fork.jpg" width="400">
+
 ### Reflection
 
 I learned that you can smooth objects with fillet
@@ -72,9 +76,13 @@ I learned that you can smooth objects with fillet
 ### Description
 20 mm wide tire 
 ### Evidence
+
 https://cvilleschools.onshape.com/documents/4f9632f9e2dab94637a3041f/w/cae4fb805300e8a5652ca08e/e/e05f99f9731d7e8e41bf3fce
+
 ### Image
-https://github.com/Janders95/BasicCad/blob/main/images/thetire.jpg
+
+<img src="https://github.com/Janders95/BasicCad/blob/main/images/thetire.jpg" width="400">
+
 ### Reflection
 I learned that a trapezoid can make a tire
 ---
@@ -88,7 +96,9 @@ wheel with 5 cuts on the inner part and 2 mm fillet on circle
 ### Evidence
 https://cvilleschools.onshape.com/documents/0a5cdb0a87ea99dc88b175d0/w/8c2cea5b909e869de89b2218/e/ebc4d741ae7c04fb2fb80d4e
 ### Image
-https://github.com/Janders95/BasicCad/blob/main/images/wheel.jpg
+
+<img src="https://github.com/Janders95/BasicCad/blob/main/images/wheel.jpg" width="400">
+
 ### Reflection
 I learned that you can see more inside the cirlce by using the shaded with hidden edges button
 ---
@@ -101,6 +111,7 @@ I learned that you can see more inside the cirlce by using the shaded with hidde
 ### Evidence
 
 ### Image
+
 
 ### Reflection
 
