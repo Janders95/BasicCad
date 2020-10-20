@@ -139,3 +139,20 @@ https://cvilleschools.onshape.com/documents/3988caf702a732acc987157d/w/8747130fb
 ## Reflection
 
 I learned that If you want a obect to wrap around another and spin you use the revolute button
+
+## Final Caster Assembly
+
+## Descrpton
+
+Put all the parts over the weeks together
+
+## Evdence
+https://cvilleschools.onshape.com/documents/131d6d018b853714a76976f0/w/347418cf9532aac3d6991362/e/d80daeb313c181593f03d8f5
+
+## Image
+
+<img src="https://github.com/Janders95/BasicCad/blob/main/images/Finalcasterassembly.jpg"  width="400">
+
+## Reflection
+
+I leanred that you don't have to type out screw size and can use the auto feature.
