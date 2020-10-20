@@ -123,3 +123,19 @@ https://cvilleschools.onshape.com/documents/4831d78a49d1b039028413d8/w/91fcb74d3
 I learned with the use button I can draw on a surface that wouldnt higlight originally.
 
 ---
+## Sub Assembly
+
+## Description
+
+The tire and rim are put to gether in the assembly
+
+## Evidence 
+https://cvilleschools.onshape.com/documents/3988caf702a732acc987157d/w/8747130fb0ecd32c858bff0c/e/ecc48446a4c831f9961c9187
+
+## Image
+
+<img src="https://github.com/Janders95/BasicCad/blob/main/images/subassembly.jpg" width="400">
+
+## Reflection
+
+I learned that If you want a obect to wrap around another and spin you use the revolute button
