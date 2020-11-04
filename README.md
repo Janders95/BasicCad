@@ -118,6 +118,8 @@ https://cvilleschools.onshape.com/documents/4831d78a49d1b039028413d8/w/91fcb74d3
 
 <img src="https://github.com/Janders95/BasicCad/blob/main/images/axle.jpg" width="400">
 
+<img src="https://github.com/Janders95/BasicCad/blob/main/images/bearing.jpg" width="400">
+
 ### Reflection
 
 I learned with the use button I can draw on a surface that wouldnt higlight originally.
